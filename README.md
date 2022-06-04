@@ -1,6 +1,6 @@
 ### Hi, there! I'm Camila Barbosa 👋
 
-- 🔭 Studying Analysis and Systems Development
+- 🔭 Studying Systems and Analysis Development
 - 🌱 Currently learning JavaScript
 - 📫 Contact: iamcamilabarbosa@gmail.com
 - 😄 Pronouns: she/her
