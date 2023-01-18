@@ -16,7 +16,7 @@ Minha jornada de programação começou há um ano com Python sendo minha primei
 
 <h2>🚀 Skills</h2>
 
-* 🧠  Atualmente estou aprendendo JavaScript, SCSS e React.js
+* 🧠  Atualmente estou aprendendo JavaScript, SASS e React.js
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
