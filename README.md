@@ -47,11 +47,9 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde:fbc7d4&height=120&section=footer"/>
-
-
 ![image](https://user-images.githubusercontent.com/97048604/213066356-bce2162f-d87b-4021-97db-fd72cbd8adc5.png)
 
 <div align="center">
 <p>Feito com :heart: e JavaScript.</p>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde:fbc7d4&height=120&section=footer"/>
