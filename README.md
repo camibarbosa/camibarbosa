@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde:fbc7d4&height=210&section=header&text=%20%20%&fontSize=30&fontColor=fbc7d4&animation=fadeIn&fontAlignY=30&desc=%&descAlignY=50"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00dbde&size=35&center=true&vCenter=true&width=1000&lines=Hello+there!+My+name+is+Camila+ˆˆ+;I'm+21+years+old;My+goal+is+to+be+a+Back-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fc00ff&size=35&center=true&vCenter=true&width=1000&lines=Hello+there!+My+name+is+Camila+ˆˆ+;I'm+21+years+old;My+goal+is+to+be+a+Back-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iamcamilabarbosa/" target="_blank">
