@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fc00ff&size=35&center=true&vCenter=true&width=1000&lines=Hello+there!+My+name+is+Camila+ˆˆ+;I'm+21+years+old;Currently+learning+Java+;and+hoping+to+become+a+Back-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <h3>Interact with me: </h3>
+  <h3>How to reach me: </h3>
   <a href="https://www.linkedin.com/in/iamcamilabarbosa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
