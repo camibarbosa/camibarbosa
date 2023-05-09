@@ -14,7 +14,7 @@
 <br>
 <br>
 <div align="center" valign="top"<br>
-  <p>✨ As a passionate learner, I am always looking <br>for new challenges and opportunities to grow. <br>Currently, I am interested in expanding my <br>knowledge in Java and cloud computing, and I am  <br>excited to see what the future holds in this ever-evolving field.</p>
+  <p>☕ As a passionate learner, I am always looking <br>for new challenges and opportunities to grow. <br>Currently, I am interested in expanding my <br>knowledge in Java and cloud computing, and I am  <br>excited to see what the future holds in this ever-evolving field.</p>
 </div>
 <br>
 <div align="center">
