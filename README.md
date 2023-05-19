@@ -14,7 +14,7 @@
 <br>
 <br>
 <div align="center" valign="top"<br>
-  <p>My goal is to become a <strong>backend developer.</strong> I have experience using <strong>TypeScript, <br>React, and Node.js and intermediate knowledge in database management. </strong><br> Currently, I am interested in expanding my knowledge in <strong>Java and cloud computing, </strong><br> and I am seeking a position as a Junior or intern backend developer.</p>
+  <p>My goal is to become a <strong>backend developer.</strong> I have experience using <strong>TypeScript, <br>React, and Node.js and I have an intermediate knowledge in database management. </strong><br> Currently, I am interested in expanding my knowledge in <strong>Java and cloud computing, </strong><br> and I am seeking a position as a Junior or intern backend developer.</p>
 </div>
 <br>
 <div align="center">
