@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:85CDFD,100:144272:144272&height=210&section=header&text=%20%20%&fontSize=30&fontColor=fbc7d4&animation=fadeIn&fontAlignY=30&desc=%&descAlignY=50"> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff99c8,100:ffc6ff:ffc8dd&height=210&section=header&text=%20%20%&fontSize=30&fontColor=fbc7d4&animation=fadeIn&fontAlignY=30&desc=%&descAlignY=50"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8DCBE6&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+I'm+Camila+👋+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2b5d4&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+I'm+Camila+👋+;)](https://git.io/typing-svg)
 <hr>
 <div align="center">
   <h3>How to reach me: </h3>
@@ -53,4 +53,4 @@
 </div>
 <div align="center">
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:144272,100:85CDFD:85CDFD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc6ff,100:ff99c8:ff99c8&height=120&section=footer"/>
