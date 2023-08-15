@@ -1,21 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff99c8,100:ffc6ff:ffc8dd&height=210&section=header&text=%20%20%&fontSize=30&fontColor=fbc7d4&animation=fadeIn&fontAlignY=30&desc=%&descAlignY=50"> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2:ffc8dd&height=210&section=header&text=Back-end+Developer%&fontSize=30&fontColor=fbc7d4&animation=fadeIn&fontAlignY=30&desc=%&descAlignY=50"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2b5d4&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+I'm+Camila+👋+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2b5d4&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+I'm+Camila+👋;I'm+21+years+old;In+a+current+love/hate+relationship+with+Java;Interests:+cybersecurity+and+cloud+computing)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=camibarbosa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <hr>
-<div align="center">
-  <h3>How to reach me: </h3>
-  <a href="https://www.linkedin.com/in/iamcamilabarbosa/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="iamcamilabarbosa@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
-<br>
-<br>
-<div align="center" valign="top"<br>
-  <p>My goal is to become a <strong>backend developer.</strong> I have experience using <strong>TypeScript <br>and Node.js and I have an intermediate knowledge in database management. </strong><br> Currently, I am interested in expanding my knowledge in <strong>Java and cloud computing, <br></strong> and I am seeking a position as a Junior or intern backend developer.</p>
-</div>
 <br>
 <div align="center">
   <h3> Skills: </h3>
@@ -46,11 +35,12 @@
  <hr>
 </div>
 
-<div align="center">
+<div max-width=60%>
 
-![https://github.com/camibarbosa/camibarbosa/blob/output/github-contribution-grid-snake.svg](https://github.com/camibarbosa/camibarbosa/blob/output/github-contribution-grid-snake.svg)
+![no adventure here___](https://github.com/camibarbosa/camibarbosa/assets/97048604/abcab8dc-820e-4509-9918-238731a89634)
+
 
 </div>
 <div align="center">
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc6ff,100:ff99c8:ff99c8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2:ffc8dd&height=120&section=footer"/>
