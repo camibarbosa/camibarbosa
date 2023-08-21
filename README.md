@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2:ffc8dd&height=210&section=header&text=Back-end+Developer%&fontSize=30&fontColor=fbc7d4&animation=fadeIn&fontAlignY=30&desc=%&descAlignY=50"> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2:ffc8dd&height=210&section=header&text=&fontSize=30&fontColor=fbc7d4&animation=fadeIn&fontAlignY=30&desc=%&descAlignY=50"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2b5d4&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+I'm+Camila+👋;I'm+21+years+old;In+a+current+love/hate+relationship+with+Java;Interests:+cybersecurity+and+cloud+computing)](https://git.io/typing-svg)
 
