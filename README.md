@@ -2,31 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2b5d4&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+I'm+Camila+👋;I'm+21+years+old;In+a+current+love/hate+relationship+with+Java;Other+interests:+cybersecurity+and+AI)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=camibarbosa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<hr>
-<br>
-<div align="center">
-  <h3> Skills: </h3>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  
-  <h3>Currently learning: </h3>
-  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />   
-  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
- 
-</div><br>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{camibarbosa}/count.svg" /></p> 
-<br>
+    
+</div>
+  <br>
+  <div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{camibarbosa}/count.svg" /></p> 
+  <br>
 </div>
 
 <div align="center">
@@ -35,12 +17,19 @@
  <hr>
 </div>
 
-<div max-width=60%>
-
-![no adventure here___](https://github.com/camibarbosa/camibarbosa/assets/97048604/abcab8dc-820e-4509-9918-238731a89634)
-
-
-</div>
-<div align="center">
-</div>
+# Tecnologias
+ <img  align="right" src="https://github.com/camibarbosa/camibarbosa/assets/97048604/acbac46b-708f-435b-bf44-36170d153241"> </div>
+ <div align="left">
+      <img alt="Java" src="https://img.shields.io/badge/java-100000?style=for-the-badge&logo=java&logoColor=blue">
+      <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-100000?style=for-the-badge&logo=springboot&logoColor=blue">
+      <img alt="AWS" src="https://img.shields.io/badge/aws-100000?style=for-the-badge&logo=aws&logoColor=blue">
+      <img alt="MySql" src="https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=blue">
+      <img alt="MySql" src="https://img.shields.io/badge/postgresql-100000?style=for-the-badge&logo=postgresql&logoColor=blue">
+      <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
+      <img alt="Linux" src="https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux">
+      <img alt="Windows" src="https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows">
+      <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
+      <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
+     <hr height="1">
+  </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2:ffc8dd&height=120&section=footer"/>
