@@ -17,7 +17,7 @@
  <hr>
 </div>
 
-# Tecnologias
+# Technologies
  <img  align="right" src="https://github.com/camibarbosa/camibarbosa/assets/97048604/acbac46b-708f-435b-bf44-36170d153241"> </div>
  <div align="left">
       <img alt="Java" src="https://img.shields.io/badge/java-100000?style=for-the-badge&logo=java&logoColor=blue">
@@ -26,6 +26,7 @@
       <img alt="MySql" src="https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=blue">
       <img alt="MySql" src="https://img.shields.io/badge/postgresql-100000?style=for-the-badge&logo=postgresql&logoColor=blue">
       <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
+      <img alt="Typescript" src="https://img.shields.io/badge/typescript-100000?style=for-the-badge&logo=typescript&logoColor=blue">
       <img alt="Linux" src="https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux">
       <img alt="Windows" src="https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows">
       <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
