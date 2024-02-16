@@ -18,7 +18,6 @@
 </div>
 
 <strong>My Skills:<strong>
-<img  align="right" src="https://github.com/camibarbosa/camibarbosa/assets/97048604/acbac46b-708f-435b-bf44-36170d153241"> </div>
  <details>
     <summary>Technologies</summary>
      <div align="left">
