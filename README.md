@@ -1,42 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2:ffc8dd&height=210&section=header&text=&fontSize=30&fontColor=fbc7d4&animation=fadeIn&fontAlignY=30&desc=%&descAlignY=50"> 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=camibarbosa&show_icons=true&title_color=D2E3C8&text_color=FBFADA&icon_color=FBFADA&bg_color=436850&cache_seconds=2300" alt="ilustração do status do github">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2b5d4&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+I'm+Camila+👋;I'm+22+years+old;Back-end+Developer;Currently+pursuing+a+degree+in+System+Analysis;)](https://git.io/typing-svg)
+## Olá mundo, meu nome é Camila! 👋
 
-    
-</div>
-  <br>
-  <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{camibarbosa}/count.svg" /></p> 
-  <br>
-</div>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Camila&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=camibarbosa&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camibarbosa&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>
- <hr>
-</div>
+<p>Desenvolvedora Back-end Java.<br/>Estudante de Engenharia de Software.</p>
 
-<strong>My Skills:<strong>
- <details>
-    <summary>Technologies</summary>
-     <div align="left">
-          <img alt="Java" src="https://img.shields.io/badge/java-100000?style=for-the-badge&logo=java&logoColor=blue">
-          <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-100000?style=for-the-badge&logo=springboot&logoColor=blue">
-          <img alt="AWS" src="https://img.shields.io/badge/aws-100000?style=for-the-badge&logo=aws&logoColor=blue">
-          <img alt="MySql" src="https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=blue">
-          <img alt="MySql" src="https://img.shields.io/badge/postgresql-100000?style=for-the-badge&logo=postgresql&logoColor=blue">
-          <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
-          <img alt="Typescript" src="https://img.shields.io/badge/typescript-100000?style=for-the-badge&logo=typescript&logoColor=blue">
-         <hr height="1">
-       </details>
- <details>
-    <summary>Tools</summary>
-    
-  ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
-  <img alt="Linux" src="https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux">
-    <img alt="Windows" src="https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows">
-  ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
-  </details>
+## Sobre mim
+
+- 🌱 Aprendendo mais sobre API REST.
+- 💼 Fui estagiária back-end na empresa Compass Uol.
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas na UNINTER.
+- 🚀 Atualmente busco uma oportunidade como Desenvolvedora Back-end Junior.
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2:ffc8dd&height=120&section=footer"/>
+## Minhas Skills
+
+<img align="right" margin-top="50em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camibarbosa&layout=compact&hide_border=true&title_color=D2E3C8&text_color=fbc7d4&bg_color=436850"/>
+
+![Static Badge](https://img.shields.io/badge/-Java-100000?style=for-the-badge&logo=Java&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-SpringBoot-100000?style=for-the-badge&logo=SpringBoot&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-JavaScript-100000?style=for-the-badge&logo=JavaScript&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-HTML-100000?style=for-the-badge&logo=HTML&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-CSS-100000?style=for-the-badge&logo=CSS&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-TypeScript-100000?style=for-the-badge&logo=TypeScript&logoColor=white&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-MYSQL-100000?style=for-the-badge&logo=MYSQL&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-PostgreSQL-100000?style=for-the-badge&logo=PostgreSQL&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-Docker-100000?style=for-the-badge&logo=Docker&color=%23739072)
+
+
+**Outros**
+
+![Static Badge](https://img.shields.io/badge/-Insomnia-100000?style=for-the-badge&logo=Insomnia&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-Postman-100000?style=for-the-badge&logo=Postman&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-Git-100000?style=for-the-badge&logo=Git&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-Linux-100000?style=for-the-badge&logo=Linux&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-Eclipse-100000?style=for-the-badge&logo=Eclipse&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-IntelliJ-100000?style=for-the-badge&logo=IntelliJ&logoColor=white&color=%23739072)
+![Static Badge](https://img.shields.io/badge/-Trello-100000?style=for-the-badge&logo=Trello&color=%23739072)
+
+<br/>
+
+## Onde me encontrar
+[![Linkedin](https://img.shields.io/badge/-iamcamilabarbosa-blue?style=flat-square&logo=Linkedin&color=%23739072&link=https://www.linkedin.com/in/iamcamilabarbosa/)](https://www.linkedin.com/in/iamcamilabarbosa/)
+[![Gmail Badge](https://img.shields.io/badge/-iamcamilabarbosa@email.com-006bed?style=flat-square&logo=Gmail&color=%23739072&link=mailto:iamcamilabarbosa@gmail.comL)](mailto:iamcamilabarbosa@gmail.com)
+[![X Badge](https://img.shields.io/badge/-X-333333?style=flat&logo=X&color=%23739072)](https://twitter.com/camicode)
+
