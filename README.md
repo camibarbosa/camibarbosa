@@ -1,10 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=camibarbosa&show_icons=true&title_color=D2E3C8&text_color=FBFADA&icon_color=FBFADA&bg_color=436850&cache_seconds=2300" alt="ilustração do status do github">
-
-## Olá mundo, meu nome é Camila! 👋
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=Camila&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>Desenvolvedora Back-end Java.<br/>Estudante de Engenharia de Software.</p>
+<div align="left">
+  <h1>Olá mundo, meu nome é Camila! 👋</h1>
+  <p>Desenvolvedora Back-end Java.<br/>Estudante de Engenharia de Software.</p>
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Camila&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+</div>
 
 ## Sobre mim
 
