@@ -8,7 +8,6 @@
 
 - 🌱 Aprendendo mais sobre API REST.
 - 💼 Ex-estagiária back-end na empresa Compass Uol.
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas pela UNINTER.
 - 🚀 Atualmente busco uma oportunidade como Desenvolvedora Back-end Junior.
   
 ## Minhas Skills
