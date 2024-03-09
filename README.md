@@ -42,5 +42,3 @@
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-iamcamilabarbosa-blue?style=flat-square&logo=Linkedin&color=%23739072&link=https://www.linkedin.com/in/iamcamilabarbosa/)](https://www.linkedin.com/in/iamcamilabarbosa/)
 [![Gmail Badge](https://img.shields.io/badge/-iamcamilabarbosa@email.com-006bed?style=flat-square&logo=Gmail&color=%23739072&link=mailto:iamcamilabarbosa@gmail.comL)](mailto:iamcamilabarbosa@gmail.com)
-[![X Badge](https://img.shields.io/badge/-X-333333?style=flat&logo=X&color=%23739072)](https://twitter.com/camicode)
-
