@@ -1,12 +1,12 @@
 <div align="left">
   <h1>Olá mundo, meu nome é Camila! 👋</h1>
-  <p>Desenvolvedora Back-end Java.<br/>Estudante de Engenharia de Software.</p>
+  <p>Desenvolvedora Back-end Java.<br/>Estudante de Ciência da Computação</p>
   <img src="https://img.shields.io/static/v1?label=Overview&message=Camila&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </div>
 
 ## Sobre mim
 
-- 🌱 Aprendendo mais sobre API REST.
+- 🌱 Aprendendo mais sobre Mensageria.
 - 💼 Ex-estagiária back-end na empresa Compass Uol.
 - 🚀 Atualmente busco uma oportunidade como Desenvolvedora Back-end Junior.
   
